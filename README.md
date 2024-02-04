@@ -6,7 +6,7 @@
 
 - 🤝 I’m looking for helping people.
 
-- 👨‍💻 All of my projects are available at [Github](Github)
+- 👨‍💻 All of my projects are available at my GitHub.
 
 - 💬 Feel free to ask me about my journey.
 
