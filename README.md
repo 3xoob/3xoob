@@ -1,3 +1,4 @@
+<h1 align="center">Hey Everyone 👋, I'm Ali!</h1>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="center">My Coding Journey</h3>
 
