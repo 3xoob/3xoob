@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">My Coding Journey</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning Full Stack Development.
 
-- 🤝 I’m looking for helping people **.**
+- 🤝 I’m looking for helping people.
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 💬 Feel free to ask me about my journey **.**
+- 💬 Feel free to ask me about my journey.
 
-- 📫 How to reach me **Social Media**
+- 📫 How to reach me Social Media
 
 - 📄 Know about my experiences [www.linkedin.com/in/aliabdulhussain3](www.linkedin.com/in/aliabdulhussain3)
 
