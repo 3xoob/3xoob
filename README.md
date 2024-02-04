@@ -10,9 +10,9 @@
 
 - 💬 Feel free to ask me about my journey.
 
-- 📫 How to reach me Social Media
+- 📫 Reach me on Social Media
 
-- 📄 Know about my experiences [www.linkedin.com/in/aliabdulhussain3](www.linkedin.com/in/aliabdulhussain3)
+- 📄 Know about my experiences [My linkedin](www.linkedin.com/in/aliabdulhussain3)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
