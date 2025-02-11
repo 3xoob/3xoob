@@ -29,13 +29,20 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &ensp;<b> Github Stats </b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align=center>
-  ![3xoob's Stats](https://github-readme-stats.vercel.app/api?username=3xoob&theme=yellowdark&show_icons=true&hide_border=false&count_private=true)
-  <br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=3xoob&theme=yellowdark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-  <br/>
-  ![3xoob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xoob&theme=yellowdark&show_icons=true&hide_border=false&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3xoob&theme=yellowdark&show_icons=true&hide_border=false&count_private=true" alt="3xoob's Stats"/>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=3xoob&theme=yellowdark&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xoob&theme=yellowdark&show_icons=true&hide_border=false&layout=compact" alt="3xoob's Top Languages"/>
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
