@@ -32,7 +32,7 @@
 <div align=center>
   ![3xoob's Stats](https://github-readme-stats.vercel.app/api?username=3xoob&theme=dark&show_icons=true&hide_border=false&count_private=true)
   <br/>
-  ![3xoob's Streak](https://github-readme-streak-stats.herokuapp.com/?user=3xoob&theme=dark&hide_border=false)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=3xoob&theme=yellowdark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
   <br/>
   ![3xoob's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3xoob&theme=dark&show_icons=true&hide_border=false&layout=compact)
 </div>
