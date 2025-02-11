@@ -17,8 +17,11 @@
 <p align="left">
 <a href="https://linkedin.com/in/aliabdulhussain3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aliabdulhussain3" height="30" width="40" /></a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
+## 🚀 Languages and Tools
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="25"> &ensp; <b> Things I code with</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 <p align="left">
@@ -26,7 +29,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,notion,npm,pnpm,git,github,nodejs,express,prisma,postgres,supabase,mongodb,mysql,jest,postman,vscode,webstorm,vercel,vite,bash,linux,md,cloudflare,java,c,py)](https://aayushbharti.in)
 
-## 🚀 Languages and Tools
 
 ### 👉 Front-end
 
