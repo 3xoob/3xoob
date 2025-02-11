@@ -30,12 +30,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3xoob&theme=yellowdark&show_icons=true&hide_border=false&count_private=true" alt="3xoob's Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=3xoob&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="3xoob's Stats"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=3xoob&theme=yellowdark&hide_border=true&border_radius=5" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3xoob&theme=dark&hide_border=false" alt="GitHub Streak"/>
   </a>
 </p>
 
