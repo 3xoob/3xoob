@@ -17,16 +17,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25"> 
-  <b>🚀 Languages and Tools</b>
-</p>
-
 ## 🚀 Languages and Tools
 <br/>
-
-
 <p align="center">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,npm,git,github,nodejs,postman,vscode,vercel,vite,powershell,bash,linux,mysql,md,cloudflare,java,c,py,cpp,go,arduino,aws,azure,discord,docker,githubactions,graphql,idea,jquery,kali,laravel,linux,matlab,mysql,php,powershell,regex,replit,sqlite,solidjs,ubuntu,windows,wordpress"/>
@@ -35,8 +27,7 @@
 
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushBharti&show_icons=true&locale=en" alt="AayushBharti" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3xoob&show_icons=true&locale=en" alt="3xoob" /></p>
 
 
 
