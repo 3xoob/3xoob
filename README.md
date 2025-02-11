@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Ali!</h1>
+<img align="center" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="center">My Coding Journey</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**.
