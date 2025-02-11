@@ -17,7 +17,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Languages and Tools
+<b>🚀 Languages and Tools</b>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -40,7 +40,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Connect with me:
+<b>Connect with me:</b>
 <p align="left">
 <a href="https://linkedin.com/in/aliabdulhussain3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="aliabdulhussain3" height="30" width="40" /></a>
 </p>
