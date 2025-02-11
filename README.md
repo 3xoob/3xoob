@@ -30,6 +30,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align=center>
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=3xoob&theme=yellowdark&hide_border=true&border_radius=5" alt="GitHub Streak" /></a>
   ![3xoob's Stats](https://github-readme-stats.vercel.app/api?username=3xoob&theme=dark&show_icons=true&hide_border=false&count_private=true)
   <br/>
   [![GitHub Streak](https://streak-stats.demolab.com?user=3xoob&theme=yellowdark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
