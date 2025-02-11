@@ -26,7 +26,9 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" style="vertical-align: middle;"> <b>GitHub Stats</b>
+<p>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35";"> <b>GitHub Stats</b>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=3xoob&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="3xoob's Stats"/>
