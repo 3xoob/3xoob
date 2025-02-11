@@ -111,8 +111,6 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-<h3>Things I code with</h3>
-<p>
 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 
@@ -142,7 +140,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-       <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AayushBharti&show_icons=true&locale=en&layout=compact" alt="AayushBharti" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushBharti&show_icons=true&locale=en" alt="AayushBharti" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushBharti&" alt="AayushBharti" /></p>           
