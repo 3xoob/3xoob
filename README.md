@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Ali!</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h3 align="center">My Coding Journey</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**.
@@ -13,10 +13,6 @@
 
 - 📄 Know about my experiences [My linkedin](www.linkedin.com/in/aliabdulhussain3)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aliabdulhussain3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="aliabdulhussain3" height="30" width="40" /></a>
-</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 Languages and Tools
@@ -33,7 +29,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AayushBharti&show_icons=true&locale=en" alt="AayushBharti" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> &ensp;<b> Github Stats </b>
@@ -47,5 +42,12 @@
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aliabdulhussain3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="aliabdulhussain3" height="30" width="40" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
