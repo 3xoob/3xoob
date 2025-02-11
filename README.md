@@ -21,7 +21,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,npm,git,github,nodejs,postman,vscode,vercel,vite,powershell,bash,linux,mysql,md,cloudflare,java,c,py,cpp,go,arduino,aws,azure,discord,docker,githubactions,graphql,idea,jquery,kali,laravel,linux,matlab,mysql,php,powershell,regex,replit,sqlite,solidjs,ubuntu,windows,wordpress"/>
+     <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,npm,git,github,nodejs,postman,vscode,vercel,vite,powershell,bash,linux,mysql,md,cloudflare,java,c,py,cpp,go,arduino,aws,azure,discord,docker,githubactions,graphql,idea,jquery,kali,laravel,linux,matlab,mysql,php,powershell,regex,replit,sqlite,solidjs,ubuntu,windows,wordpress&perline=10"/>
   </a>
 </p>
 
