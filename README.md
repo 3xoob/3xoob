@@ -1,5 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Ali!</h1>
-<img align="center" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="600" alt="Coding">
+</p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">My Coding Journey</h3>
 
@@ -17,7 +19,8 @@
 
 
 <p align="center">
- <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25"> <b> ## 🚀 Languages and Tools
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25" height="25"> <b> 
+  ## 🚀 Languages and Tools
 <br/>
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,tailwind,figma,npm,git,github,nodejs,postman,vscode,vercel,vite,powershell,bash,linux,mysql,md,cloudflare,java,c,py,cpp,go,arduino,aws,azure,discord,docker,githubactions,graphql,idea,jquery,kali,laravel,linux,matlab,mysql,php,powershell,regex,replit,sqlite,solidjs,ubuntu,windows,wordpress"/>
