@@ -155,7 +155,6 @@ A SaaS board management platform designed for organizations, associations, and e
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=3xoob&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4)
 ![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=3xoob&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4)
 
 </div>
