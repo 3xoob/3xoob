@@ -175,6 +175,6 @@ A SaaS board management platform designed for organizations, associations, and e
 
 <div align="center">
 
-*Ali Abd Al-Hussain · Full Stack Dev @ Raincode · BSc Comp Eng · Bahrain*
+*Ali AbdulHussain · Full Stack Dev @ Raincode · BSc Comp Eng · Bahrain*
 
 </div>
