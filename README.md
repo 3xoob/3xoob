@@ -7,7 +7,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/⚡_Full_Stack_Dev-5eead4?style=for-the-badge&labelColor=0d1117&color=5eead4" />
-<img src="https://img.shields.io/badge/🎓_BSc_Comp_Eng-Almost_Done-a78bfa?style=for-the-badge&labelColor=0d1117&color=a78bfa" />
+<img src="https://img.shields.io/badge/🎓_BSc_Comp_Eng-a78bfa?style=for-the-badge&labelColor=0d1117&color=a78bfa" />
 <img src="https://img.shields.io/badge/🏗️_@_Raincode-fbbf24?style=for-the-badge&labelColor=0d1117&color=fbbf24" />
 <img src="https://img.shields.io/badge/🚀_2_Live_Products-f87171?style=for-the-badge&labelColor=0d1117&color=f87171" />
 
@@ -34,10 +34,10 @@
 
 ## 💼 Work Experience
 
-### 🏗️ Raincode — Full Developer
-`raincode.tech` · Remote
+### 🏗️ Raincode — Full Stack Developer
+`raincode.tech` · On-site
 
-> Elite AI & full-stack tech consulting bridging strategy and execution for ambitious companies. Embedded in client teams building production-grade products end to end — DB schema to deployed UI, APIs to app stores.
+> AI-driven software consultancy delivering end-to-end digital products for ambitious clients. As a Full Stack Developer, I take full ownership of the development lifecycle — from system architecture and database design to frontend implementation and production deployment.
 
 <table>
 <tr>
@@ -47,7 +47,7 @@
 
 ![Live](https://img.shields.io/badge/Live_%26_Scaling-5eead4?style=flat-square&labelColor=0d1117)
 
-Largest online golf marketplace — 90k+ golfers buying, selling & trading gear. BankID auth, secure payments, unified iOS + Android codebase, 30+ daily listings.
+A full-featured marketplace for buying, selling, and trading golf equipment. Built with a unified iOS & Android codebase, BankID authentication, and a secure payment system — serving a growing community of 90k+ active golfers.
 
 🔗 [foremarket.se](https://foremarket.se)
 
@@ -58,7 +58,7 @@ Largest online golf marketplace — 90k+ golfers buying, selling & trading gear.
 
 ![SaaS](https://img.shields.io/badge/SaaS-a78bfa?style=flat-square&labelColor=0d1117)
 
-Digital board portal — meeting management, BankID e-signatures, integrated video meetings and encrypted document workflows for organizations.
+A SaaS board management platform designed for organizations, associations, and enterprises. Features include structured meeting management, legally-binding BankID e-signatures, integrated video conferencing, and encrypted document storage.
 
 🔗 [reduca.se](https://reduca.se)
 
@@ -76,8 +76,8 @@ Digital board portal — meeting management, BankID e-signatures, integrated vid
 - 🤝 **Always down to help** — dm me. seriously.
 - 💬 **Let's talk about** — code, products, ideas
 - 🔥 **Fun fact** — I debug in prod (sometimes)
-- 📍 **Based in** — Bahrain 🇧🇭
-- 📄 **Experience** — [linkedin/aliabdulhussain3](https://www.linkedin.com/in/aliabdulhussain3)
+- 📍 **Based in** — Bahrain 🌍
+- 📄 **Experience** — [![LinkedIn](https://img.shields.io/badge/linkedin%2Faliabdulhussain3-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdulhussain3)
 
 ---
 
@@ -155,11 +155,11 @@ Digital board portal — meeting management, BankID e-signatures, integrated vid
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=3xoob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=5eead4&icon_color=a78bfa&text_color=94a3b8&ring_color=a78bfa" />&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xoob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=5eead4&text_color=94a3b8&langs_count=6" />
+<a href="https://github.com/3xoob"><img height="170" src="https://github-readme-stats.vercel.app/api?username=3xoob&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=5eead4&icon_color=a78bfa&text_color=94a3b8&ring_color=a78bfa" /><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xoob&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=5eead4&text_color=94a3b8&langs_count=6" /></a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=3xoob&theme=tokyonight-duo&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=3xoob&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4" />
 
 </div>
 
@@ -179,6 +179,6 @@ Digital board portal — meeting management, BankID e-signatures, integrated vid
 
 <div align="center">
 
-*Ali Abd Al-Hussain · Full Stack Dev @ Raincode · BSc Comp Eng · Bahrain 🇧🇭*
+*Ali Abd Al-Hussain · Full Stack Dev @ Raincode · BSc Comp Eng · Bahrain*
 
 </div>
