@@ -155,35 +155,8 @@ A SaaS board management platform designed for organizations, associations, and e
 
 <div align="center">
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3xoob&theme=tokyonight" 
-  width="100%" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=3xoob&theme=tokyonight" 
-  width="49%" 
-/>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=3xoob&theme=tokyonight&utcOffset=1" 
-  width="49%" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=3xoob&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=5eead4&point=fbbf24" 
-  width="100%" 
-/>
-
-<br/><br/>
-
-<img 
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=3xoob&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4" 
-  width="70%" 
-/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=3xoob&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=3xoob&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4)
 
 </div>
 
