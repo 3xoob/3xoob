@@ -1,34 +1,22 @@
 <div align="center">
 
-<a href="https://3xoob.github.io/3xoob">
-  <img src="https://img.shields.io/badge/🔥_View_Full_Profile_Card-0d0d1a?style=for-the-badge&color=5eead4&labelColor=0d1117" />
-</a>
-
-</div>
-
-<!--
-  Hey recruiter / visitor 👋
-  The real designed profile lives at: https://3xoob.github.io/3xoob
-  GitHub Markdown can't render the full design below perfectly,
-  but here's the content version:
--->
-
----
-
-<div align="center">
-
 # Hey, I'm Ali 👋🔥
+
 ### Full Stack Developer · Builder · Learner · Loud in Code
 
-![](https://img.shields.io/badge/⚡_Full_Stack_Dev-5eead4?style=flat-square&labelColor=0a0a14&color=5eead4)
-![](https://img.shields.io/badge/🎓_BSc_Comp_Eng_·_85%25_Done-a78bfa?style=flat-square&labelColor=0a0a14&color=a78bfa)
-![](https://img.shields.io/badge/🏗️_@_Raincode-fbbf24?style=flat-square&labelColor=0a0a14&color=fbbf24)
-![](https://img.shields.io/badge/🚀_2_Live_Products-f87171?style=flat-square&labelColor=0a0a14&color=f87171)
+<br/>
 
-</div>
+<img src="https://img.shields.io/badge/⚡_Full_Stack_Dev-5eead4?style=for-the-badge&labelColor=0d1117&color=5eead4" />
+<img src="https://img.shields.io/badge/🎓_BSc_Comp_Eng-Almost_Done-a78bfa?style=for-the-badge&labelColor=0d1117&color=a78bfa" />
+<img src="https://img.shields.io/badge/🏗️_@_Raincode-fbbf24?style=for-the-badge&labelColor=0d1117&color=fbbf24" />
+<img src="https://img.shields.io/badge/🚀_2_Live_Products-f87171?style=for-the-badge&labelColor=0d1117&color=f87171" />
+
+<br/><br/>
 
 > I build things that **actually ship**. From idea to production — frontend, backend, mobile, cloud, IoT.
 > I talk about code like I mean it, and I mean it loud. Turning ideas into **real products** while finishing my degree.
+
+</div>
 
 ---
 
@@ -53,20 +41,24 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⛳ Foremarket** &nbsp; ![](https://img.shields.io/badge/Live_%26_Scaling-5eead4?style=flat-square&labelColor=0a2020)
+**⛳ Foremarket**
 
-Largest online golf marketplace — 90k+ golfers, BankID auth, secure payments, unified iOS + Android codebase, 30+ daily listings.
+![Live](https://img.shields.io/badge/Live_%26_Scaling-5eead4?style=flat-square&labelColor=0d1117)
+
+Largest online golf marketplace — 90k+ golfers buying, selling & trading gear. BankID auth, secure payments, unified iOS + Android codebase, 30+ daily listings.
 
 🔗 [foremarket.se](https://foremarket.se)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📋 Reduca** &nbsp; ![](https://img.shields.io/badge/SaaS-a78bfa?style=flat-square&labelColor=1a0a2e)
+**📋 Reduca**
 
-Digital board portal — meeting management, BankID e-signatures, video meetings and encrypted document workflows.
+![SaaS](https://img.shields.io/badge/SaaS-a78bfa?style=flat-square&labelColor=0d1117)
+
+Digital board portal — meeting management, BankID e-signatures, integrated video meetings and encrypted document workflows for organizations.
 
 🔗 [reduca.se](https://reduca.se)
 
@@ -119,7 +111,7 @@ Digital board portal — meeting management, BankID e-signatures, video meetings
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-5eead4?style=flat-square&logoColor=white)
 
 **🗄️ Databases**
 
@@ -151,15 +143,11 @@ Digital board portal — meeting management, BankID e-signatures, video meetings
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-0d1117?style=flat-square&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 ---
 
@@ -167,12 +155,11 @@ Digital board portal — meeting management, BankID e-signatures, video meetings
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=3xoob&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=5eead4&icon_color=a78bfa&text_color=94a3b8" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xoob&hide_border=true&layout=compact&bg_color=0d0d1a&title_color=5eead4&text_color=94a3b8" width="38%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=3xoob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d0d1a&title_color=5eead4&icon_color=a78bfa&text_color=94a3b8&ring_color=a78bfa" />&nbsp;&nbsp;<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3xoob&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=5eead4&text_color=94a3b8&langs_count=6" />
 
-<br><br>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=3xoob&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=5eead4&currStreakNum=f0f0ff" width="55%" />
+<img src="https://streak-stats.demolab.com?user=3xoob&theme=tokyonight-duo&hide_border=true&background=0d0d1a&stroke=5eead4&ring=a78bfa&fire=fbbf24&currStreakLabel=5eead4&sideLabels=94a3b8&dates=475569&sideNums=e2e8f0&currStreakNum=5eead4" />
 
 </div>
 
@@ -183,13 +170,15 @@ Digital board portal — meeting management, BankID e-signatures, video meetings
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdulhussain3)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3xoob)
-[![Raincode](https://img.shields.io/badge/Raincode-5eead4?style=for-the-badge&logo=googlechrome&logoColor=black)](https://raincode.tech)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3xoob)
+[![Raincode](https://img.shields.io/badge/Raincode-0d1117?style=for-the-badge&logo=googlechrome&logoColor=5eead4)](https://raincode.tech)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>ALI ABD AL-HUSSAIN · FULL STACK DEV @ RAINCODE · BSC COMP ENG · FOREMARKET.SE · REDUCA.SE · BAHRAIN 🇧🇭</sub>
+
+*Ali Abd Al-Hussain · Full Stack Dev @ Raincode · BSc Comp Eng · Bahrain 🇧🇭*
+
 </div>
