@@ -157,36 +157,34 @@ A SaaS board management platform designed for organizations, associations, and e
 
 _Automatically generated from **126** public, non-fork, non-archived repositories._
 
-| Language | Repositories | Usage | Code size |
-|---|---:|---:|---:|
-| Shell | 51 | 1.62% | 248.3 KB |
-| HTML | 46 | 7.03% | 1.1 MB |
-| Go | 46 | 6.99% | 1.0 MB |
-| CSS | 38 | 2.46% | 377.2 KB |
-| JavaScript | 34 | 3.55% | 543.5 KB |
-| Python | 30 | 6.67% | 1022.5 KB |
-| Dockerfile | 25 | 0.24% | 36.7 KB |
-| TypeScript | 16 | 8.92% | 1.3 MB |
-| Java | 11 | 5.94% | 911.0 KB |
-| Rust | 11 | 4.90% | 750.6 KB |
-| Makefile | 9 | 0.08% | 12.4 KB |
-| Jupyter Notebook | 5 | 29.09% | 4.4 MB |
-| C | 5 | 4.94% | 757.9 KB |
-| Dart | 4 | 0.87% | 133.8 KB |
-| PHP | 3 | 1.27% | 195.1 KB |
-| SCSS | 3 | 0.14% | 21.7 KB |
-| HCL | 2 | 0.39% | 59.9 KB |
-| Jinja | 2 | 0.03% | 4.3 KB |
-| C++ | 1 | 14.24% | 2.1 MB |
-| Ruby | 1 | 0.43% | 66.6 KB |
-| Blade | 1 | 0.10% | 15.1 KB |
-| Cypher | 1 | 0.03% | 4.6 KB |
-| Perl | 1 | 0.03% | 4.6 KB |
-| Kotlin | 1 | 0.02% | 3.6 KB |
-| Assembly | 1 | 0.01% | 1.1 KB |
-| Go Template | 1 | 0.00% | 747 B |
-
-> Repository count shows how many repositories use each language. Usage percentage is calculated from the code bytes reported by GitHub Linguist.
+| Language | Repositories |
+|---|---:|
+| Shell | 51 |
+| HTML | 46 |
+| Go | 46 |
+| CSS | 38 |
+| JavaScript | 34 |
+| Python | 30 |
+| Dockerfile | 25 |
+| TypeScript | 16 |
+| Java | 11 |
+| Rust | 11 |
+| Makefile | 9 |
+| Jupyter Notebook | 5 |
+| C | 5 |
+| Dart | 4 |
+| PHP | 3 |
+| SCSS | 3 |
+| HCL | 2 |
+| Jinja | 2 |
+| C++ | 1 |
+| Ruby | 1 |
+| Blade | 1 |
+| Cypher | 1 |
+| Perl | 1 |
+| Kotlin | 1 |
+| Assembly | 1 |
+| Go Template | 1 |
 
 <!-- GITHUB-LANGUAGES:END -->
 
