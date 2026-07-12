@@ -124,8 +124,8 @@ lines = [
     f"_Automatically generated from **{len(repositories)}** public, "
     "non-fork, non-archived repositories._",
     "",
-    "| Language | Repositories | Usage | Code size |",
-    "|---|---:|---:|---:|",
+    "| Language | Repositories |",
+    "|---|---:|",
 ]
 
 for language in sorted_languages:
@@ -138,16 +138,11 @@ for language in sorted_languages:
     )
 
     lines.append(
-        f"| {language} | {repository_count} | "
-        f"{percentage:.2f}% | {format_bytes(byte_count)} |"
+        f"| {language} | {repository_count} |"
     )
 
 lines.extend(
     [
-        "",
-        "> Repository count shows how many repositories use each language. "
-        "Usage percentage is calculated from the code bytes reported by "
-        "GitHub Linguist.",
         "",
         END_MARKER,
     ]
