@@ -151,6 +151,14 @@ A SaaS board management platform designed for organizations, associations, and e
 
 ---
 
+## 🌐 Languages Across My Repositories
+
+<!-- GITHUB-LANGUAGES:START -->
+_Language data will be generated automatically._
+<!-- GITHUB-LANGUAGES:END -->
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
