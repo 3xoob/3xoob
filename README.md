@@ -37,7 +37,7 @@
 ### 🏗️ Raincode — Full Stack Developer
 `raincode.tech` · On-site
 
-> AI-driven software consultancy delivering end-to-end digital products for ambitious clients. As a Full Stack Developer, I take full ownership of the development lifecycle — from system architecture and database design to frontend implementation and production deployment.
+> Bahrain-based software development company delivering production-grade digital products for clients across marketplace, SaaS, and governance domains. As a Full Stack Developer, I own the full development lifecycle, from system architecture and database design to frontend implementation and production deployment across client platforms.
 
 <table>
 <tr>
