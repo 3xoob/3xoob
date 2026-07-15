@@ -167,7 +167,7 @@ _Automatically generated from **126** public, non-fork, non-archived repositorie
 | Python | 30 |
 | Dockerfile | 25 |
 | TypeScript | 16 |
-| Java | 11 |
+| Java | 12 |
 | Rust | 11 |
 | Makefile | 9 |
 | Jupyter Notebook | 5 |
