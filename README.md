@@ -155,34 +155,36 @@ A SaaS board management platform designed for organizations, associations, and e
 
 <!-- GITHUB-LANGUAGES:START -->
 
-_Automatically generated from **126** public, non-fork, non-archived repositories._
+_Automatically generated from **129** public, non-fork, non-archived repositories._
 
 | Language | Repositories |
 |---|---:|
 | Shell | 51 |
-| HTML | 46 |
+| HTML | 47 |
 | Go | 46 |
-| CSS | 38 |
-| JavaScript | 34 |
+| CSS | 39 |
+| JavaScript | 35 |
 | Python | 30 |
 | Dockerfile | 25 |
 | TypeScript | 16 |
 | Java | 12 |
 | Rust | 11 |
 | Makefile | 9 |
+| C | 6 |
 | Jupyter Notebook | 5 |
-| C | 5 |
 | Dart | 4 |
+| C++ | 3 |
 | PHP | 3 |
 | SCSS | 3 |
 | HCL | 2 |
 | Jinja | 2 |
-| C++ | 1 |
+| VHDL | 1 |
 | Ruby | 1 |
 | Blade | 1 |
 | Cypher | 1 |
 | Perl | 1 |
 | Kotlin | 1 |
+| Stata | 1 |
 | Assembly | 1 |
 | Go Template | 1 |
 
