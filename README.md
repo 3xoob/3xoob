@@ -20,18 +20,6 @@
 
 ---
 
-## 🎓 Education
-
-**BSc Computer Engineering** — *85% done*
-
-| 🟣 CS Core | 🟢 Systems | 🟡 Hardware | 🔴 Math |
-|:---:|:---:|:---:|:---:|
-| Algorithms | Operating Systems | Computer Architecture | Discrete Math |
-| Data Structures | Computer Networks | Digital Logic | Linear Algebra |
-| OOP | Databases | Embedded Systems | Probability & Stats |
-
----
-
 ## 💼 Work Experience
 
 ### 🏗️ Raincode — Full Stack Developer
