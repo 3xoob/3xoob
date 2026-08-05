@@ -143,22 +143,22 @@ A SaaS board management platform designed for organizations, associations, and e
 
 <!-- GITHUB-LANGUAGES:START -->
 
-_Automatically generated from **138** public, non-fork, non-archived repositories._
+_Automatically generated from **139** public, non-fork, non-archived repositories._
 
 | Language | Repositories |
 |---|---:|
 | Shell | 54 |
-| HTML | 52 |
+| HTML | 53 |
 | Go | 47 |
-| JavaScript | 44 |
+| JavaScript | 45 |
 | CSS | 42 |
 | Python | 30 |
 | Dockerfile | 25 |
 | TypeScript | 17 |
 | Java | 12 |
 | Rust | 11 |
+| Solidity | 9 |
 | Makefile | 9 |
-| Solidity | 8 |
 | C | 6 |
 | Jupyter Notebook | 5 |
 | Dart | 4 |
