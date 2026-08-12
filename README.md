@@ -203,7 +203,7 @@ _Automatically generated from **139** public, non-fork, non-archived repositorie
 
 <div align="center">
 
-[![alitech.dev](https://img.shields.io/badge/alitech.dev-5eead4?style=for-the-badge&labelColor=0d1117&logo=safari&logoColor=5eead4)](https://alitech.dev)
+[![alitech.dev](https://img.shields.io/badge/alitech.dev-5eead4?style=for-the-badge&labelColor=0d1117)](https://alitech.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aliabdulhussain3)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3xoob)
 [![Raincode](https://img.shields.io/badge/Raincode-0d1117?style=for-the-badge&logo=googlechrome&logoColor=5eead4)](https://raincode.tech)
