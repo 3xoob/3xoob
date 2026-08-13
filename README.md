@@ -155,20 +155,20 @@ _Automatically generated from **139** public, non-fork, non-archived repositorie
 
 | Language | Repositories |
 |---|---:|
-| Shell | 54 |
-| HTML | 53 |
+| Shell | 55 |
+| HTML | 54 |
 | Go | 47 |
 | JavaScript | 45 |
 | CSS | 42 |
-| Python | 30 |
+| Python | 31 |
 | Dockerfile | 25 |
 | TypeScript | 17 |
 | Java | 12 |
 | Rust | 11 |
 | Solidity | 9 |
 | Makefile | 9 |
+| Jupyter Notebook | 6 |
 | C | 6 |
-| Jupyter Notebook | 5 |
 | Dart | 4 |
 | C++ | 3 |
 | PHP | 3 |
